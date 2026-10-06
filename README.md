@@ -252,7 +252,7 @@ FAISS, ChromaDB или Qdrant.
 | 4 | Эмбеддинги, векторная БД | 1 мес. | Индекс, retriever |
 | 5 | LLM: RAG, извлечение, суммаризация, агент | 1 мес. | Ядро системы |
 | 6 | Оценка качества | 1 мес. | Сравнительные таблицы |
-| 7 | Сервис (Telegram / Streamlit) | 1 мес. | Прототип в Docker |
+| 7 | Сервис Streamlit | 1 мес. | Прототип в Docker |
 | 8 | Тесты, отчёт, защита | 1 мес. | Документация, презентация |
 
 **Общий срок:** примерно 8 месяцев.
@@ -269,4 +269,4 @@ FAISS, ChromaDB или Qdrant.
 - **LLM:** Qwen2.5, Llama 3.1, Mistral через Ollama / vLLM / transformers
 - **Агенты и RAG:** LangChain / LangGraph / LlamaIndex
 - **Оценка:** RAGAS, evaluate (ROUGE, BERTScore), seqeval
-- **Сервис:** aiogram (Telegram) или Streamlit, FastAPI, Docker
+- **Сервис:** Streamlit, FastAPI, Docker
